@@ -1,4 +1,4 @@
-FROM php:8.4.6-zts-alpine3.20
+FROM php:8.4.7RC1-zts-alpine3.20
 
 # install the PHP extensions we need
 RUN set -ex; \
